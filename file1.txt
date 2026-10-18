@@ -1,0 +1,13 @@
+cd ~/Desktop/jenny-folder/Git-Github-proj
+
+echo "=== CURRENT DIRECTORY ==="
+pwd
+
+echo "=== FILES ==="
+ls -la
+
+echo "=== PARENT DIRECTORY ==="
+ls -la ..
+
+echo "=== GIT ROOT CHECK ==="
+git rev-parse --show-toplevel
