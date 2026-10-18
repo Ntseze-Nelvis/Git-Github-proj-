@@ -1,0 +1,10 @@
+Step 3: Choose the correct fix
+Option A — You already have a project you want to track with Git
+If Git-Github-proj is a new project folder and you want to start tracking its files, run:
+git init
+git status
+
+
+This initializes a new local Git repository.
+Option B — You intended to work in an existing repository
+Earlier, you were working in mount-cameroon-georisk. To return to that repository, run:
